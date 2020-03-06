@@ -50,5 +50,15 @@ if(answer3 == "2"):
                 print("*You recognize the person as the same man from before*")
                 print("Unknown: What do you think you are doing?")
                 print("1: I was looking for the bathroom")
+                print("2: Just looking around")
+                print("3: Nothing")
+                answer7 = input("What would you like to say?")
+                print("*You briefly feel something hit you on the head and everything goes black*")
+                print("*****************************************")
+                print("*****************************************")
+                print("*****************************************")
+                print("*You wake up tied down to a chair in a dark room*")
+                
+                
                 
     
