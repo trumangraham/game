@@ -68,9 +68,66 @@ def choice():
                 if(answer6 == "3"):
                     print("*You land smoothly and take off running*")
                     print("*Congratulations!!! You successfully escaped*")
-            if(answer 5 == "2"):
+            if(answer5 == "2"):
                 print()
                 print("*You wake up with a headache and the sound of something upstairs*")
+        if(answer4 == "2"):
+            print("*You walk downstairs and discover an empty room with a chair sitting in the center*")
+            print("*It looks like the chair was used to tie somebody down*")
+            print("1: Run")
+            print("2: Confront man")
+            print("3: Ignore and go to sleep")
+            answer7 = input("What would you like to do? ")
+            if(answer7 == "1"):
+                print("*While running up the stairs somebody steps out infront of you*")
+                print("*They push you before you can react*")
+                print("*You fall down the stairs and hit your head*")
+                print("*****************************************")
+                print("*****************************************")
+                print("*****************************************")
+                print("*You wake up tied down to a chair in a dark room*")
+            if(answer7 == "2"):
+                print("*You walk into the room where you last saw him*")
+                print("*It is empty*")
+                print("*You fell something slam against your head*")
+                print("*****************************************")
+                print("*****************************************")
+                print("*****************************************")
+                print("*You wake up tied down to a chair in a dark room*")
+            if(answer7 == "3"):
+                print("*You wake up with a headache and the sound of something upstairs*")
+        if(answer5 == "3"):
+            print("*You walk outside and an alarm sounds as soon as you get out*")
+            print("1: Run")
+            print("2: Wait for alarm to stop")
+            print("3: Investigate")
+            answer8 = input("What would like to do? ")
+            if(answer8 == "1"):
+                print("*You take off running like a stallion*")
+                print("*Congratulations!!! You successfully escaped*")
+            if(answer8 == "2"):
+                print("*The unknown man from earlier is running at you*")
+                print("*He injects you with a needle before you can do anything*")
+                print("***Things are starting to get fuzzy***")
+                print("*****************************************")
+                print("*****************************************")
+                print("*****************************************")
+                print("*You wake up tied down to a chair in a dark room*")
+            if(answer8 == "3"):
+                print("*The unknown man from earlier is running at you while you are checking the alarm*")
+                print("*He injects you with a needle before you can do anything*")
+                print("***Things are starting to get fuzzy***")
+                print("*****************************************")
+                print("*****************************************")
+                print("*****************************************")
+                print("*You wake up tied down to a chair in a dark room*")
+            
+                
+                
+            
+                
+                
+                
                 
    
                 
